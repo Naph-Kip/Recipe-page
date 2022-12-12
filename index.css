@@ -1,0 +1,312 @@
+* {
+    background-color: white;
+    box-sizing: border-box;
+}
+
+.main-header > h1 {
+    width: 587px;
+    height: 64px;
+    margin-top: 49px;
+    margin-left: 236px;
+    font-weight: 700px;
+    font-size: 48px;
+    line-height: 63px;
+    font-family: playfair;
+}
+
+.topic-desc > img {
+    width: 13px;
+    height: 8px;
+    margin-top: 0px;
+    margin-left: 236px;
+}
+
+.topic-desc > p {
+    width: 592px;
+    height: 51px;
+    margin-top: -20px;
+    margin-left: 261px;
+    font-style: italic;
+    font-family: laguna, sans-serif;
+    font-weight: 500px;
+    line-height: 20px;
+}
+
+.image-container {
+    width: 969px;
+    height: 470px;
+    margin-top: 70px;
+    margin-left: 234px;
+}
+
+.ingredients > h2 {
+    width: 128px;
+    height: 32px;
+    margin-top: 50px;
+    margin-left: 236px;
+    font-weight: 700px;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.ingredients-desc {
+    margin-top: 50px;
+    margin-left: 236px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#item-1 {
+    font-family: laguna, sans-serif;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 24px;
+    font-style: italic;
+}
+
+#item-2 {
+    font-family: laguna, sans-serif;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 24px;
+    font-style: italic;
+}
+
+#btn {
+    width: 21px;
+    height: 21px;
+    border-radius: 4px;
+}
+
+.ingredients-desc > label {
+    width: 554px;
+    height: 50px;
+    font-family: verdana,sans-serif;
+    font-weight: 700px;
+    font-size: 16px;
+    line-height: 25px;
+    margin-left: 40px;
+    margin-top: -30px
+}
+
+.hero-meal-prep {
+    margin: 20px;
+    margin-left: 900px;
+    margin-top: -760px;
+    width: 250px;
+    height: 367px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.6);
+    border-radius: 12px;
+}
+
+#rest-menu-image {
+    margin-left: 20px;
+    margin-top: 0px;
+   
+}
+.meal-prep {
+    margin-left: px;
+    margin-top: -250px;
+}
+
+#yield-description {
+    margin-left: 80px;
+    margin-top: -45px;
+}
+
+#preptime-desc {
+    margin-left: 80px;
+    margin-top: -40px;
+}
+
+#cooktime-desc {
+    margin-left: 80px;
+    margin-top: -40px;
+}
+
+#totaltime-desc {
+    margin-left: 80px;
+    margin-top: -40px;
+}
+
+#menu-image {
+    margin-top: 30px;
+    color: orange;
+    background-color: orange;
+}
+
+.schedule-image {
+    margin-left: 20px;
+}
+
+.instructions {
+    margin-top: 400px;
+    margin-left: 236px;
+}
+
+.instructions > h1 {
+    width: 128px;
+    height: 32px;
+    font-weight: 700px;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.first-p{
+    width: 300px;
+    height: 456px;
+    font-family: verdana, sans-serif;
+    font-weight: 700px;
+    font-size: 16px;
+    line-height: 25px;
+    margin-left: 50px;
+    margin-top: -30px
+}
+
+.first-instruction {
+    width: 36px;
+    height: 36px;
+    border-radius: 4px;
+    color: white;
+    background-color: orange;
+    border: orange solid 2px;
+}
+
+.second-instruction {
+    width: 36px;
+    height: 36px;
+    border-radius: 4px;
+    color: white;
+    background-color: orange;
+    border: orange solid 2px;
+}
+
+.third-instruction {
+    width: 36px;
+    height: 36px;
+    border-radius: 4px;
+    color: white;
+    background-color: orange;
+    border: orange solid 2px;
+}
+
+.fourth-instruction {
+    width: 36px;
+    height: 36px;
+    border-radius: 4px;
+    color: white;
+    background-color: orange;
+    border: orange solid 2px;
+}
+.fifth-instruction {
+    width: 36px;
+    height: 36px;
+    border-radius: 4px;
+    color: white;
+    background-color: orange;
+    border: orange solid 2px;
+}
+
+.sixth-instruction {
+    width: 36px;
+    height: 36px;
+    border-radius: 4px;
+    color: white;
+    background-color: orange;
+    border: orange solid 2px;
+}
+
+.seventh-instruction {
+    width: 36px;
+    height: 36px;
+    border-radius: 4px;
+    color: white;
+    background-color: orange;
+    border: orange solid 2px;
+}
+
+.footer {
+   display: flex;
+   bottom: 0;
+   height: 100px;
+   justify-content: center;
+   margin-top: -250px;
+}
+
+.footer-content {
+    display: flex;
+    color: black;
+    text-align: center;
+    font-family: verdana, sans-serif;
+}
+
+.instruction-two {
+    margin-top: -380px;
+}
+
+.instruction-sixth {
+    margin-top: -130px;
+}
+
+.instruction-seventh {
+    margin-top: -280px;
+}
+
+
+.hero2 {
+    display: flex;
+}
+
+.ingred-main {
+    margin-top: 50px;
+    margin-left: 236px;
+}
+
+#graham-container {
+    width: 200px;
+    height: 100px;
+}
+
+#cheesecake-container {
+    width: 200px;
+    height: 100px;
+}
+
+@media  (min-width: 320px) and (max-width: 769px) {
+    .meal-prep {
+        margin-left: 450px;
+        margin-top: -750px;
+        display: flex;
+        justify-content: space-around;
+        
+    }
+
+    .ingredients > h2 {
+        width: 128px;
+        height: 32px;
+        margin-top: 200px;
+        margin-left: 236px;
+        font-weight: 700px;
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    .ingredients-desc {
+        margin-top: 200px;
+        margin-left: 236px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    
+    .hero2 {
+        margin-top: 300px;
+    }
+
+    #ingred-main {
+        margin-top: -00px;
+    }
+
+}
